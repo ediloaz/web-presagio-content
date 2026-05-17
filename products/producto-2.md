@@ -1,7 +1,7 @@
 ---
 title: Producto ABC 2
 slug: producto-2
-mainImage: /content-uploads/product-2.jpg
+mainImage: /content-uploads/jordiwild.png
 price: null
 priceDisplay: on-request
 shortDescription: Descripción breve y genérica del segundo producto.
