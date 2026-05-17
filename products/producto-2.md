@@ -1,17 +1,17 @@
 ---
-title: Producto 2
+title: Producto ABC 2
 slug: producto-2
 mainImage: /content-uploads/product-2.jpg
-gallery: []
 price: null
 priceDisplay: on-request
 shortDescription: Descripción breve y genérica del segundo producto.
 category: General
-tags: []
-sku: null
+sku: ''
 inStock: true
 order: 2
-whatsappMessage: 'Hola, me interesa el Producto 2.'
+whatsappMessage: Hola, me interesa el Producto 2.
+gallery: []
+tags: []
 ---
 
 ## Características del Producto 2
