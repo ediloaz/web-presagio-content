@@ -1,0 +1,122 @@
+# Sveltia / Decap CMS — config alterna (la principal vive embebida en /admin del Repo A).
+# Esta versión está acá para que cualquier herramienta que consuma config.yml
+# (por ej. Decap CMS local) pueda leerla.
+
+backend:
+  name: github
+  repo: ediloaz/boilerplate-content
+  branch: main
+  base_url: https://sveltia-auth.workers.dev
+  auth_endpoint: auth
+
+publish_mode: simple
+media_folder: public/content-uploads
+public_folder: /content-uploads
+
+collections:
+  - name: settings
+    label: 'Configuración'
+    files:
+      - name: site-settings
+        label: 'Configuración del sitio'
+        file: settings/site-settings.md
+        fields:
+          - { name: brandName, label: 'Nombre comercial', widget: string }
+          - { name: tagline, label: 'Tagline', widget: string }
+          - { name: description, label: 'Descripción', widget: text }
+          - { name: primaryColor, label: 'Color primario', widget: string }
+          - { name: secondaryColor, label: 'Color secundario', widget: string }
+          - { name: whatsappNumber, label: 'WhatsApp', widget: string, required: false }
+          - { name: whatsappMessage, label: 'Mensaje WhatsApp', widget: string, required: false }
+          - { name: email, label: 'Email', widget: string, required: false }
+          - { name: darkModeEnabled, label: 'Dark mode activado', widget: boolean, required: false }
+
+  - name: pages
+    label: 'Páginas'
+    files:
+      - name: home
+        label: 'Home'
+        file: pages/home.md
+        fields:
+          - { name: heroTitle, label: 'Título hero', widget: string }
+          - { name: heroSubtitle, label: 'Subtítulo hero', widget: text, required: false }
+      - name: about
+        label: 'Nosotros'
+        file: pages/about.md
+        fields:
+          - { name: heroTitle, label: 'Título', widget: string }
+          - { name: heroSubtitle, label: 'Subtítulo', widget: string, required: false }
+          - { name: storyTitle, label: 'Título historia', widget: string, required: false }
+          - { name: storyContent, label: 'Historia', widget: markdown }
+          - { name: mission, label: 'Misión', widget: text, required: false }
+          - { name: vision, label: 'Visión', widget: text, required: false }
+      - name: contact
+        label: 'Contacto'
+        file: pages/contact.md
+        fields:
+          - { name: heroTitle, label: 'Título', widget: string }
+          - { name: heroSubtitle, label: 'Subtítulo', widget: string, required: false }
+          - { name: formTitle, label: 'Título formulario', widget: string }
+          - { name: formSuccessMessage, label: 'Mensaje éxito', widget: text }
+          - { name: showMap, label: 'Mostrar mapa', widget: boolean, required: false }
+
+  - name: services
+    label: 'Servicios'
+    folder: services
+    create: true
+    slug: '{{slug}}'
+    fields:
+      - { name: title, widget: string }
+      - { name: slug, widget: string }
+      - { name: icon, widget: string, required: false }
+      - { name: summary, widget: text }
+      - { name: coverImage, widget: image, required: false }
+      - { name: order, widget: number, required: false }
+      - { name: featured, widget: boolean, required: false }
+      - { name: body, label: 'Contenido', widget: markdown }
+
+  - name: products
+    label: 'Productos'
+    folder: products
+    create: true
+    slug: '{{slug}}'
+    fields:
+      - { name: title, widget: string }
+      - { name: slug, widget: string }
+      - { name: mainImage, widget: image, required: false }
+      - { name: price, widget: number, required: false, value_type: float }
+      - { name: priceDisplay, widget: select, options: [show, hide, on-request], default: show }
+      - { name: shortDescription, widget: text }
+      - { name: category, widget: string, required: false }
+      - { name: sku, widget: string, required: false }
+      - { name: inStock, widget: boolean, default: true }
+      - { name: order, widget: number, required: false }
+      - { name: whatsappMessage, widget: string, required: false }
+      - { name: body, label: 'Contenido', widget: markdown }
+
+  - name: posts
+    label: 'Blog'
+    folder: posts
+    create: true
+    slug: '{{slug}}'
+    fields:
+      - { name: title, widget: string }
+      - { name: slug, widget: string }
+      - { name: publishedAt, widget: datetime }
+      - { name: status, widget: select, options: [draft, published], default: published }
+      - { name: excerpt, widget: text }
+      - { name: category, widget: string, required: false }
+      - { name: coverImage, widget: image, required: false }
+      - { name: body, label: 'Contenido', widget: markdown }
+
+  - name: faqs
+    label: 'FAQs'
+    folder: faqs
+    create: true
+    slug: '{{slug}}'
+    fields:
+      - { name: question, widget: string }
+      - { name: category, widget: string, required: false }
+      - { name: order, widget: number, required: false }
+      - { name: featured, widget: boolean, required: false }
+      - { name: body, label: 'Respuesta', widget: markdown }
