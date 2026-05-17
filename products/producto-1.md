@@ -1,7 +1,7 @@
 ---
 title: Producto XYZ 01
 slug: producto-1
-mainImage: /content-uploads/product-1.jpg
+mainImage: /content-uploads/1752533570416.jfif
 price: 100
 priceDisplay: show
 shortDescription: Descripción breve y genérica del primer producto.
