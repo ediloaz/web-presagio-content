@@ -2,18 +2,18 @@
 brandName: Empresa Demo
 tagline: Calidad y confianza
 description: Empresa de servicios genérica que ofrece soluciones de calidad y confianza.
-primaryColor: '#0EA5E9'
-secondaryColor: '#F59E0B'
-whatsappNumber: '15550000000'
+primaryColor: '#FF0000'
+secondaryColor: '#00FF00'
+whatsappNumber: '86523185'
 whatsappMessage: Hola, vi su sitio web y...
-email: info@demo.com
+email: ediloaz@gmail.com
 darkModeEnabled: true
 modulesEnabled:
-  home: true
-  about: true
-  services: true
-  products: true
-  blog: true
-  contact: true
   faq: true
+  contact: true
+  blog: true
+  products: true
+  services: true
+  about: true
+  home: true
 ---
