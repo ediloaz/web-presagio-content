@@ -1,7 +1,7 @@
 ---
-brandName: Empresa Demo
-tagline: Calidad y confianza
-description: Empresa de servicios genérica que ofrece soluciones de calidad y confianza.
+brandName: Presagio
+tagline: Diseñamos tu escape perfecto.
+description: Tu picnic ideal, sin complicaciones. Brindamos un servicio completo de préstamos, decoración e instalación de picnics creativos con todos los implementos necesarios para tus celebraciones. Creamos ambientes mágicos listos para que vivas una experiencia única al aire libre.
 primaryColor: '#FF0000'
 secondaryColor: '#00FF00'
 whatsappNumber: '86523185'
