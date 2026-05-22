@@ -1,30 +1,54 @@
 ---
-title: Producto 1
-slug: producto-1
-mainImage: /content-uploads/product-1.jpg
+title: Canasta Gourmet Clásica
+slug: canasta-gourmet-clasica
+mainImage: /content-uploads/products/canasta-gourmet.jpg
 gallery:
-  - /content-uploads/product-1-a.jpg
-  - /content-uploads/product-1-b.jpg
-price: 100
+  - /content-uploads/products/canasta-gourmet-a.jpg
+  - /content-uploads/products/canasta-gourmet-b.jpg
+price: 12500
 priceDisplay: show
-shortDescription: Descripción breve y genérica del primer producto.
-category: General
+shortDescription: Una selección curada de quesos artesanales, fiambres, frutas frescas, mermeladas caseras y panes de masa madre. Para dos personas.
+category: Gastronomía
 tags:
   - destacado
-sku: SKU-001
+  - gourmet
+sku: CAN-001
 inStock: true
 order: 1
-whatsappMessage: 'Hola, me interesa el Producto 1 (SKU-001).'
+whatsappMessage: 'Hola, quiero comprar la Canasta Gourmet Clásica (CAN-001). ¿Tienen stock disponible?'
 ---
 
-## Características del Producto 1
+## La canasta que lo tiene todo
 
-Listado genérico de características del producto.
+Nuestra Canasta Gourmet Clásica es la forma más sencilla de llevar la experiencia Presagio a cualquier lugar. Todo está seleccionado con criterio: productores locales, ingredientes de estación, sin conservantes artificiales.
 
-- Característica uno: descripción breve.
-- Característica dos: descripción breve.
-- Característica tres: descripción breve.
+## Contenido de la canasta
 
-## Especificaciones
+**Quesos:**
+- 1 trozo de queso brie artesanal
+- 1 trozo de queso azul suave
+- 1 queso de cabra con hierbas
 
-Tabla o texto con especificaciones técnicas del producto.
+**Fiambres y charcutería:**
+- Salame artesanal de cerdo
+- Bresaola de ternera
+
+**Acompañamientos:**
+- Mermelada de frutos rojos casera
+- Miel de colmena
+- Pepinillos artesanales
+
+**Panes:**
+- 2 panes de masa madre (natural y de olivas)
+- Galletas de semillas
+
+**Frutas:**
+- Selección de frutas de estación (varía según disponibilidad)
+
+## Embalaje
+
+Viene en una canasta de mimbre reutilizable con papel tissue natural y cinta de lino. Lista para regalar o para llevar directo al parque.
+
+## Nota
+
+La composición puede variar levemente según disponibilidad estacional. Si tenés alguna restricción alimentaria, avisanos al hacer el pedido.

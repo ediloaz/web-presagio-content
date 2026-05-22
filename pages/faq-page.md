@@ -1,6 +1,6 @@
 ---
 title: Preguntas frecuentes
-subtitle: Respondemos las dudas más comunes sobre nuestros servicios y productos.
-description: Respondemos las dudas más comunes.
-emptyMessage: Todavía no hay preguntas publicadas. Volvé pronto para ver novedades.
+subtitle: Todo lo que necesitás saber antes de reservar tu picnic.
+description: Respondemos las dudas más comunes sobre reservas, instalación, menús y logística. Si no encontrás tu respuesta, escribinos por WhatsApp.
+emptyMessage: Próximamente respuestas a tus preguntas.
 ---

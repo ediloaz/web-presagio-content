@@ -1,10 +1,5 @@
 ---
-whatsappNumber: '15550000000'
-whatsappMessage: Hola, vi su sitio web y...
-email: info@demo.com
----
----
-whatsappNumber: '15550000000'
-whatsappMessage: Hola, vi su sitio web y...
-email: info@demo.com
+whatsappNumber: '5491134567890'
+whatsappMessage: 'Hola Presagio! Me gustaría reservar una experiencia de picnic.'
+email: hola@presagio.com.ar
 ---

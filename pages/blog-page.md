@@ -1,6 +1,6 @@
 ---
-title: Blog
-subtitle: Artículos, novedades y consejos.
-description: Artículos, novedades y consejos.
-emptyMessage: Todavía no hay artículos publicados. Volvé pronto para ver novedades.
+title: Inspiración
+subtitle: Ideas, guías y secretos para vivir el exterior con más estilo.
+description: Artículos sobre picnic, locaciones, gastronomía al aire libre y estilo de vida natural. Todo lo que necesitás saber para tu próxima salida.
+emptyMessage: Próximamente nuevos artículos.
 ---

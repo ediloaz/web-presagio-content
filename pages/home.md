@@ -1,35 +1,33 @@
 ---
-heroTitle: PRESAGIO
-heroSubtitle: Estás viendo el mockup local del boilerplate. Conectá el Repo B para mostrar contenido real.
-heroPrimaryCtaLabel: Contactar
+heroTitle: Presagio
+heroSubtitle: Diseñamos experiencias de picnic que convierten cualquier espacio al aire libre en un lugar extraordinario. Naturaleza, arte y sabor en perfecta armonía.
+heroPrimaryCtaLabel: Reservar una experiencia
 heroPrimaryCtaHref: /contacto
-heroSecondaryCtaLabel: Ver servicios
+heroSecondaryCtaLabel: Ver experiencias
 heroSecondaryCtaHref: /servicios
 testimonialsDisplayMode: grid
 benefits:
-  - description: Descripción breve y genérica del beneficio que ofrecemos a nuestros clientes.
-    title: Beneficio destacado 1
-    icon: Sparkles
-  - description: Descripción breve y genérica de un segundo beneficio diferenciador.
-    title: Beneficio destacado 2
-    icon: ShieldCheck
-  - description: Descripción breve y genérica de un tercer beneficio que aporta valor.
-    title: Beneficio destacado 3
-    icon: Rocket
-  - description: Descripción breve y genérica de un cuarto beneficio para nuestros clientes.
-    title: Beneficio destacado 4
-    icon: Users
+  - title: Montaje completo
+    description: Llegamos, armamos y retiramos todo. Vos solo aparecés y disfrutás.
+    icon: Tent
+  - title: Productos artesanales
+    description: Canastas gourmet, textiles de lino y florería fresca seleccionada con cuidado.
+    icon: Leaf
+  - title: Experiencias a medida
+    description: Cada picnic es único. Lo diseñamos según tu ocasión, gustos y espacio.
+    icon: Palette
+  - title: Reserva flexible
+    description: Coordinamos fecha, horario y locación para adaptarnos a tu agenda.
+    icon: CalendarCheck
 ctaBanner:
+  title: Tu próximo momento especial empieza aquí
+  description: Contanos la ocasión y diseñamos juntos la experiencia perfecta. Respondemos en menos de 24 horas.
+  ctaLabel: Escribirnos por WhatsApp
   ctaHref: /contacto
-  ctaLabel: Contactar ahora
-  description: Conversemos sobre cómo podemos ayudarte con tus próximos proyectos.
-  title: ¿Listo para empezar?
 aboutSummary:
+  title: Somos Presagio
+  body: Nacimos de la convicción de que los mejores momentos de la vida ocurren al aire libre. Somos un equipo de diseñadores, gastrónomos y amantes de la naturaleza que transformamos cualquier rincón verde en un espacio de lujo efímero.\n\nCada setup es una obra de arte temporal — diseñada con flores frescas, textiles naturales, vajilla vintage y comida gourmet. No vendemos picnics, creamos recuerdos.
   image: /content-uploads/about-summary.jpg
   ctaHref: /nosotros
-  ctaLabel: Conocer más
-  body: Somos una empresa de servicios genérica que ofrece soluciones de calidad y confianza. Llevamos años ayudando a clientes a alcanzar sus objetivos con propuestas a la medida.
-  title: Sobre Empresa Demo
+  ctaLabel: Conocer nuestra historia
 ---
-
-Contenido auxiliar del Home (no se renderiza en V1).

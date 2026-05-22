@@ -1,23 +1,40 @@
 ---
-title: Servicio ABC
-slug: servicio-1
-icon: Sparkles
-summary: Descripción breve (editada) y genérica del primer servicio que ofrecemos.
-coverImage: /content-uploads/Screenshot_1.png
-ctaLabel: Solicitar información
+title: Picnic Romántico
+slug: picnic-romantico
+icon: Heart
+summary: El escenario perfecto para una velada íntima para dos. Flores, velas, canasta gourmet y todo el romanticismo que el momento merece.
+coverImage: /content-uploads/services/picnic-romantico.jpg
+ctaLabel: Reservar ahora
 ctaHref: /contacto
 order: 1
 featured: true
 ---
 
-## ¿Qué incluye el Servicio 1 (editado)?
+## El escenario que siempre imaginaste
 
-Texto genérico que describe en profundidad el primer servicio. Detalla los puntos clave, el alcance del trabajo y los beneficios para el cliente.
+Mantel de lino natural, cojines de terciopelo, flores frescas de estación y una canasta gourmet pensada para compartir. El Picnic Romántico de Presagio está diseñado para que solo tengas que aparecer y disfrutar.
 
-- Beneficio uno: descripción breve.
-- Beneficio dos: descripción breve.
-- Beneficio tres: descripción breve.
+Ideal para aniversarios, pedidas de mano, cumpleaños de pareja o simplemente una tarde especial sin razón particular.
+
+## ¿Qué incluye?
+
+- Montaje y desmontaje completo a cargo de nuestro equipo
+- Mantel de lino premium y cojines tapizados
+- Arreglo de flores frescas de estación
+- Canasta gourmet para dos: quesos artesanales, fiambres, frutas, panes y dulces
+- Botella de vino o espumante de productor local
+- Copas de vidrio, platos y cubiertos de madera
+- Velas (con porta velas de vidrio para mayor seguridad)
+- Guirnalda de luces cálidas
+- Cartel personalizable con nombre o mensaje
 
 ## ¿Cómo funciona?
 
-Descripción paso a paso del proceso de entrega del servicio. Cada paso se describe en una o dos oraciones simples para que el cliente entienda qué esperar.
+1. **Reservá tu fecha** — Contactanos con al menos 72 hs de anticipación.
+2. **Elegimos la locación** — Podemos ir a tu parque favorito, tu terraza, jardín o un espacio que recomendemos.
+3. **Llegamos antes que vos** — Armamos todo en 45 minutos y nos retiramos discretamente.
+4. **Vivís el momento** — Tenés el espacio por 2 horas. Luego volvemos a levantar todo.
+
+## Personalizaciones disponibles
+
+Podemos sumar decoración temática, un pastelero para traer tu torta favorita, música en vivo, fotógrafo o cualquier detalle que lo haga aún más especial.

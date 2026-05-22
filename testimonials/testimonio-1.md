@@ -1,14 +1,10 @@
 ---
-name: Laura Hernández
-slug: testimonio-1
-photo: /content-uploads/testimonials/laura-hernandez.jpg
+name: Sofía Ramírez
+slug: testimonio-sofia-ramirez
+photo: /content-uploads/testimonials/sofia-ramirez.jpg
 rating: 5
 order: 1
-facebookUrl: https://facebook.com/
 instagramUrl: https://instagram.com/
-linkedinUrl: https://linkedin.com/
-websiteUrl: https://example.com/
 ---
 
-Trabajar con Empresa Demo fue una excelente experiencia. Entendieron nuestras
-necesidades desde el inicio y cumplieron tiempos con una calidad impecable.
+Reservé el Picnic Romántico para el aniversario con mi pareja y fue absolutamente mágico. Llegamos al Rosedal y todo estaba armado con una perfección que superó cualquier expectativa. Las flores, el mantel de lino, la canasta con quesos increíbles... nos quedamos más de tres horas sin querer irnos. Gracias Presagio por crear ese momento.

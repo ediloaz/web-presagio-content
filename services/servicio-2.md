@@ -1,22 +1,37 @@
 ---
-title: Servicio 2
-slug: servicio-2
-icon: Rocket
-summary: Descripción breve y genérica del segundo servicio que ofrecemos a nuestros clientes.
-coverImage: /content-uploads/service-2.jpg
-ctaLabel: Solicitar información
+title: Picnic Familiar
+slug: picnic-familiar
+icon: Users
+summary: Un espacio amplio, cómodo y lleno de vida para que toda la familia comparta un momento al aire libre sin preocupaciones.
+coverImage: /content-uploads/services/picnic-familiar.jpg
+ctaLabel: Consultar disponibilidad
 ctaHref: /contacto
 order: 2
-featured: false
+featured: true
 ---
 
-## ¿Qué incluye el Servicio 2?
+## El domingo perfecto para toda la familia
 
-Texto genérico que describe el segundo servicio en detalle. Cubre el alcance, los entregables y los principales beneficios.
+Mantas grandes, cojines abundantes, una mesa baja con todo lo necesario y un espacio pensado para que los chicos corran y los grandes descansen. El Picnic Familiar es nuestra propuesta más completa y versátil.
 
-- Beneficio uno: descripción breve.
-- Beneficio dos: descripción breve.
+Ideal para reuniones familiares, cumpleaños infantiles, bienvenidas de bebés o simplemente para redescubrir el placer de compartir sin distracciones.
 
-## Para quién es
+## ¿Qué incluye? (para hasta 8 personas)
 
-Describe en una oración el perfil de cliente al que está orientado este servicio.
+- Montaje y desmontaje completo
+- Mantas de algodón natural y cojines XXL
+- Mesa baja de madera con centro de flores
+- Canasta gourmet familiar: opciones para adultos y niños
+- Juego de vajilla rústica (platos, copas, cubiertos de madera)
+- Tabla de quesos y fiambres gourmet
+- Bandeja de frutas y snacks naturales
+- Jugos, agua con gas y limonada artesanal
+- Cartel de bienvenida personalizable
+
+## Para grupos más grandes
+
+Podemos ampliar el setup para hasta 20 personas. Consultar precio y disponibilidad según fecha y locación.
+
+## Actividades complementarias
+
+A pedido podemos coordinar juegos de exterior, kits de actividades para niños o un animador para cumpleaños infantiles. Todo al aire libre, todo sin pantallas.

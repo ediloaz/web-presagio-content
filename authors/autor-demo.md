@@ -1,6 +1,6 @@
 ---
-slug: autor-demo
-name: Autor Demo
-avatar: /content-uploads/author-1.jpg
-bio: Autor placeholder utilizado para validar el renderizado de posts.
+slug: valentina-ruiz
+name: Valentina Ruiz
+avatar: /content-uploads/team-valentina.jpg
+bio: Fundadora y Directora Creativa de Presagio. Diseñadora de espacios enamorada del mundo vegetal y de los momentos que no se olvidan.
 ---

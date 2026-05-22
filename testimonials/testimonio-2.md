@@ -1,12 +1,10 @@
 ---
-name: Miguel Soto
-slug: testimonio-2
-photo: /content-uploads/testimonials/miguel-soto.jpg
-rating: 4
+name: Familia Gómez
+slug: testimonio-familia-gomez
+photo: /content-uploads/testimonials/familia-gomez.jpg
+rating: 5
 order: 2
 instagramUrl: https://instagram.com/
-tiktokUrl: https://tiktok.com/
 ---
 
-El equipo nos ayudó a ordenar todo el proceso y a mejorar nuestros resultados.
-La comunicación fue clara y el acompañamiento, constante.
+Contratamos el Picnic Familiar para el cumpleaños de los 40 de mi mamá. Éramos 12 personas y el espacio estuvo impecable: las mantas enormes, la comida para todos, y ese detalle del cartel con su nombre... ella lloró de emoción. El equipo de Presagio fue súper profesional, llegaron antes que nosotros y levantaron todo sin que lo notáramos. 100% recomendado.

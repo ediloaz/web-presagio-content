@@ -1,6 +1,6 @@
 ---
-title: Testimonios
-subtitle: Lo que dicen nuestros clientes sobre trabajar con nosotros.
-description: Conocé las experiencias de clientes que ya trabajaron con nosotros.
-emptyMessage: Todavía no hay testimonios publicados. Volvé pronto para ver novedades.
+title: Lo que dicen
+subtitle: Las palabras de quienes lo vivieron.
+description: Cada testimonio es una historia real de un momento especial. Estos son algunos de los mensajes que más nos tocaron el corazón.
+emptyMessage: Próximamente compartiremos testimonios.
 ---

@@ -1,8 +1,8 @@
 ---
-title: Equipo en acción
+title: Setup romántico al atardecer
 slug: galeria-1
 image: /content-uploads/gallery/galeria-1.jpg
-alt: Equipo trabajando en proyecto de cliente
-category: Proceso
+alt: Setup de picnic romántico con mantel de lino, flores y canasta gourmet en el Rosedal de Palermo
+category: Romántico
 order: 1
 ---

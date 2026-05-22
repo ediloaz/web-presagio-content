@@ -1,6 +1,6 @@
 ---
-title: Servicios
-subtitle: Soluciones que diseñamos a la medida de cada cliente.
-description: Conocé los servicios que ofrecemos.
-emptyMessage: Todavía no hay servicios publicados. Volvé pronto para ver novedades.
+title: Experiencias
+subtitle: Cada picnic es una historia diferente — la tuya está por escribirse.
+description: Diseñamos setups al aire libre para cualquier ocasión. Elegí la experiencia que mejor se adapta a tu momento y la personalizamos juntos.
+emptyMessage: Próximamente nuevas experiencias disponibles.
 ---
