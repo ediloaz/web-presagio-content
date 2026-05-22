@@ -1,20 +1,20 @@
 ---
-title: Producto XYZ 01
+title: Producto 1
 slug: producto-1
-mainImage: /content-uploads/1752533570416.jfif
+mainImage: /content-uploads/product-1.jpg
+gallery:
+  - /content-uploads/product-1-a.jpg
+  - /content-uploads/product-1-b.jpg
 price: 100
 priceDisplay: show
 shortDescription: Descripción breve y genérica del primer producto.
 category: General
+tags:
+  - destacado
 sku: SKU-001
 inStock: true
 order: 1
-whatsappMessage: Hola, me interesa el Producto 1 (SKU-001).
-gallery:
-  - /content-uploads/product-1-a.jpg
-  - /content-uploads/product-1-b.jpg
-tags:
-  - destacado
+whatsappMessage: 'Hola, me interesa el Producto 1 (SKU-001).'
 ---
 
 ## Características del Producto 1

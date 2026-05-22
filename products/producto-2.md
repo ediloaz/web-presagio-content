@@ -1,17 +1,17 @@
 ---
-title: Producto ABC 2
+title: Producto 2
 slug: producto-2
-mainImage: /content-uploads/jordiwild.png
+mainImage: /content-uploads/product-2.jpg
+gallery: []
 price: null
 priceDisplay: on-request
 shortDescription: Descripción breve y genérica del segundo producto.
 category: General
-sku: ''
-inStock: true
-order: 1
-whatsappMessage: Hola, me interesa el Producto 2.
-gallery: []
 tags: []
+sku: null
+inStock: true
+order: 2
+whatsappMessage: 'Hola, me interesa el Producto 2.'
 ---
 
 ## Características del Producto 2

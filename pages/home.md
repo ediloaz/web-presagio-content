@@ -5,6 +5,7 @@ heroPrimaryCtaLabel: Contactar
 heroPrimaryCtaHref: /contacto
 heroSecondaryCtaLabel: Ver servicios
 heroSecondaryCtaHref: /servicios
+testimonialsDisplayMode: grid
 benefits:
   - icon: Sparkles
     title: Beneficio destacado 1
