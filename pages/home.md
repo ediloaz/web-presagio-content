@@ -1,5 +1,5 @@
 ---
-heroTitle: Sin conexión al contenido
+heroTitle: PRESAGIO
 heroSubtitle: Estás viendo el mockup local del boilerplate. Conectá el Repo B para mostrar contenido real.
 heroPrimaryCtaLabel: Contactar
 heroPrimaryCtaHref: /contacto
@@ -7,29 +7,29 @@ heroSecondaryCtaLabel: Ver servicios
 heroSecondaryCtaHref: /servicios
 testimonialsDisplayMode: grid
 benefits:
-  - icon: Sparkles
+  - description: Descripción breve y genérica del beneficio que ofrecemos a nuestros clientes.
     title: Beneficio destacado 1
-    description: Descripción breve y genérica del beneficio que ofrecemos a nuestros clientes.
-  - icon: ShieldCheck
+    icon: Sparkles
+  - description: Descripción breve y genérica de un segundo beneficio diferenciador.
     title: Beneficio destacado 2
-    description: Descripción breve y genérica de un segundo beneficio diferenciador.
-  - icon: Rocket
+    icon: ShieldCheck
+  - description: Descripción breve y genérica de un tercer beneficio que aporta valor.
     title: Beneficio destacado 3
-    description: Descripción breve y genérica de un tercer beneficio que aporta valor.
-  - icon: Users
+    icon: Rocket
+  - description: Descripción breve y genérica de un cuarto beneficio para nuestros clientes.
     title: Beneficio destacado 4
-    description: Descripción breve y genérica de un cuarto beneficio para nuestros clientes.
-aboutSummary:
-  title: Sobre Empresa Demo
-  body: Somos una empresa de servicios genérica que ofrece soluciones de calidad y confianza. Llevamos años ayudando a clientes a alcanzar sus objetivos con propuestas a la medida.
-  ctaLabel: Conocer más
-  ctaHref: /nosotros
-  image: /content-uploads/about-summary.jpg
+    icon: Users
 ctaBanner:
-  title: ¿Listo para empezar?
-  description: Conversemos sobre cómo podemos ayudarte con tus próximos proyectos.
-  ctaLabel: Contactar ahora
   ctaHref: /contacto
+  ctaLabel: Contactar ahora
+  description: Conversemos sobre cómo podemos ayudarte con tus próximos proyectos.
+  title: ¿Listo para empezar?
+aboutSummary:
+  image: /content-uploads/about-summary.jpg
+  ctaHref: /nosotros
+  ctaLabel: Conocer más
+  body: Somos una empresa de servicios genérica que ofrece soluciones de calidad y confianza. Llevamos años ayudando a clientes a alcanzar sus objetivos con propuestas a la medida.
+  title: Sobre Empresa Demo
 ---
 
 Contenido auxiliar del Home (no se renderiza en V1).
