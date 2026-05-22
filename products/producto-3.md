@@ -7,7 +7,7 @@ gallery:
   - /content-uploads/products/vajilla-mimbre-b.jpg
 price: 15800
 priceDisplay: show
-shortDescription: Set completo para dos: canasta de mimbre natural, 2 platos de cerámica artesanal, 2 copas de vidrio vintage, cubiertos de madera y servilletas de lino.
+shortDescription: "Set completo para dos: canasta de mimbre natural, 2 platos de cerámica artesanal, 2 copas de vidrio vintage, cubiertos de madera y servilletas de lino."
 category: Vajilla
 tags:
   - destacado
