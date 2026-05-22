@@ -8,7 +8,7 @@ shortDescription: Descripción breve y genérica del segundo producto.
 category: General
 sku: ''
 inStock: true
-order: 2
+order: 1
 whatsappMessage: Hola, me interesa el Producto 2.
 gallery: []
 tags: []
