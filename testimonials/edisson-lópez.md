@@ -3,7 +3,7 @@ name: Edisson López
 slug: edisson-lopez
 photo: /content-uploads/jordiwild.png
 rating: 5
-order: null
+order: 1
 facebookUrl: http://facebook.com/ediloaz
 instagramUrl: ''
 linkedinUrl: ''
