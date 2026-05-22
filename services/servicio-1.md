@@ -1,16 +1,16 @@
 ---
-title: Servicio 1
+title: Servicio ABC
 slug: servicio-1
 icon: Sparkles
-summary: Descripción breve y genérica del primer servicio que ofrecemos.
-coverImage: /content-uploads/service-1.jpg
+summary: Descripción breve (editada) y genérica del primer servicio que ofrecemos.
+coverImage: /content-uploads/Screenshot_1.png
 ctaLabel: Solicitar información
 ctaHref: /contacto
 order: 1
 featured: true
 ---
 
-## ¿Qué incluye el Servicio 1?
+## ¿Qué incluye el Servicio 1 (editado)?
 
 Texto genérico que describe en profundidad el primer servicio. Detalla los puntos clave, el alcance del trabajo y los beneficios para el cliente.
 
