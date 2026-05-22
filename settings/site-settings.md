@@ -9,11 +9,12 @@ whatsappMessage: Hola, vi su sitio web y...
 email: ediloaz@gmail.com
 darkModeEnabled: true
 modulesEnabled:
+  home: true
+  about: true
+  services: true
+  products: true
+  blog: true
+  testimonials: true
   faq: true
   contact: true
-  blog: true
-  products: true
-  services: true
-  about: true
-  home: true
 ---
