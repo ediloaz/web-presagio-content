@@ -1,6 +1,6 @@
 # Almacenamiento — Repo B
 
-> Generado por GitHub Actions el 2026-05-24 07:17 UTC.
+> Generado por GitHub Actions el 2026-05-31 07:29 UTC.
 
 ## Estado
 
@@ -21,5 +21,5 @@
 | Archivo | Tamaño |
 | --- | --- |
 | `public/content-uploads/Screenshot_1.png` | 0.32 MB |
-| `public/content-uploads/README.md` | 0.00 MB |
 | `public/content-uploads/about-summary.jpg.svg` | 0.00 MB |
+| `public/content-uploads/README.md` | 0.00 MB |
