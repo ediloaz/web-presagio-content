@@ -40,7 +40,7 @@ aboutSummary:
   eyebrow: Nuestra historia
   title: Somos Presagio
   body: Presagio nació en 2022 de la mano de Dionela Burgos en Puriscal, San José. Con flores frescas, textiles naturales, vajilla seleccionada y comida pensada para compartir, transformamos rincones verdes en espacios de lujo efímero.\n\nNo vendemos picnics, creamos recuerdos.
-  image: /content-uploads/about-summary.jpg
+  image: /content-uploads/about-summary.png
   ctaHref: /nosotros
   ctaLabel: Conocer nuestra historia
 ctaBanner:

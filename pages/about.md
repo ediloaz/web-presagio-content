@@ -1,5 +1,5 @@
 ---
-heroImage: /content-uploads/about-hero.jpg
+heroImage: /content-uploads/about-summary.png
 heroTitle: El arte de vivir al aire libre
 heroSubtitle: Presagio nació en Puriscal con la visión de Dionela Burgos — transformar espacios naturales en experiencias extraordinarias.
 storyTitle: Cómo nació Presagio
