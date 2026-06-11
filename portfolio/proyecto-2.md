@@ -2,7 +2,7 @@
 title: Team building corporativo para 35 personas
 slug: team-building-corporativo
 coverImage: /content-uploads/portfolio/proyecto-2.jpg
-summary: Cierre de año al aire libre para una empresa de tecnología. 35 personas, Bosques de Palermo, buffet gourmet y actividades sin pantallas.
+summary: Cierre de año al aire libre para una empresa local. 35 personas, parque en el GAM, buffet gourmet y actividades sin pantallas.
 category: Corporativo
 clientName: TechBA S.A.
 projectUrl: ''

@@ -5,8 +5,8 @@ publishedAt: '2026-04-10'
 updatedAt: ''
 status: published
 author:
-  name: Valentina Ruiz
-  avatar: /content-uploads/team-valentina.jpg
+  name: Dionela Burgos
+  avatar: /content-uploads/team/dionela-burgos.jpg
   bio: Fundadora de Presagio y obsesionada con los detalles que hacen la diferencia.
 coverImage: /content-uploads/posts/post-1.jpg
 excerpt: Un buen picnic no ocurre por accidente. Hay cinco elementos que separan una salida improvisada de una experiencia que se recuerda para siempre.
@@ -32,7 +32,7 @@ Lo que buscamos en una buena locación:
 - **Distancia del ruido** — buscar un rincón, no el centro del parque
 - **Nivel del terreno** — una superficie levemente inclinada drena mejor la humedad
 
-Nuestros favoritos en Buenos Aires: El Rosedal (llegá temprano los sábados), Jardín Botánico al atardecer, y la Reserva Ecológica en días de semana.
+Nuestros favoritos en la zona: jardines privados en Puriscal, parques con sombra en el GAM y rincones verdes donde el ruido queda lejos.
 
 ## 2. La base textil define todo
 

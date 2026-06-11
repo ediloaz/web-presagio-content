@@ -1,5 +1,5 @@
 ---
-heroEyebrow: Buenos Aires · Argentina
+heroEyebrow: Puriscal · San José, Costa Rica
 heroTitle: Presagio
 heroSubtitle: Diseñamos experiencias de picnic que convierten cualquier espacio al aire libre en un lugar extraordinario. Naturaleza, arte y sabor en perfecta armonía.
 heroImage: /content-uploads/home/hero.jpg
@@ -27,7 +27,7 @@ benefits:
 servicesSection:
   eyebrow: Lo que ofrecemos
   title: Experiencias
-  subtitle: Desde un picnic íntimo para dos hasta celebraciones para toda la familia, diseñamos cada escenario a medida.
+  subtitle: Desde un picnic íntimo para dos hasta celebraciones para toda la familia, diseñamos cada escenario a medida en Puriscal y alrededores.
   viewAllLabel: Ver todas las experiencias
 gallerySection:
   title: Momentos
@@ -39,7 +39,7 @@ testimonialsSection:
 aboutSummary:
   eyebrow: Nuestra historia
   title: Somos Presagio
-  body: Nacimos de la convicción de que los mejores momentos de la vida ocurren al aire libre. Somos un equipo de diseñadores, gastrónomos y amantes de la naturaleza que transformamos cualquier rincón verde en un espacio de lujo efímero.\n\nCada setup es una obra de arte temporal — diseñada con flores frescas, textiles naturales, vajilla vintage y comida gourmet. No vendemos picnics, creamos recuerdos.
+  body: Presagio nació en 2022 de la mano de Dionela Burgos en Puriscal, San José. Con flores frescas, textiles naturales, vajilla seleccionada y comida pensada para compartir, transformamos rincones verdes en espacios de lujo efímero.\n\nNo vendemos picnics, creamos recuerdos.
   image: /content-uploads/about-summary.jpg
   ctaHref: /nosotros
   ctaLabel: Conocer nuestra historia

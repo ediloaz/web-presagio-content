@@ -5,9 +5,9 @@ publishedAt: '2026-05-12'
 updatedAt: ''
 status: published
 author:
-  name: Luna Castro
-  avatar: /content-uploads/team-luna.jpg
-  bio: Chef de Presagio, formada en Le Cordon Bleu. Diseña los menús con ingredientes de productores locales.
+  name: Dionela Burgos
+  avatar: /content-uploads/team/dionela-burgos.jpg
+  bio: Fundadora de Presagio. Diseña canastas y menús con ingredientes de productores locales.
 coverImage: /content-uploads/posts/post-3.jpg
 excerpt: La comida del picnic tiene reglas propias. Aquí la guía completa para elegir qué llevar, cómo conservarlo y cómo armarlo para que todo se vea tan bien como sabe.
 category: Gastronomía

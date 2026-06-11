@@ -12,7 +12,7 @@ featured: true
 
 ## Cuando el equipo necesita respirar
 
-El mejor team building no ocurre en una sala de reuniones. Ocurre cuando el equipo comparte un mate, una buena comida y una tarde al sol sin agenda. El Picnic Corporativo de Presagio es eso: un espacio para que las personas que trabajan juntas se conozcan de verdad.
+El mejor team building no ocurre en una sala de reuniones. Ocurre cuando el equipo comparte un café, una buena comida y una tarde al sol sin agenda. El Picnic Corporativo de Presagio es eso: un espacio para que las personas que trabajan juntas se conozcan de verdad.
 
 ## ¿Qué incluye? (para hasta 20 personas)
 

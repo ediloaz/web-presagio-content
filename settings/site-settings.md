@@ -21,7 +21,7 @@ modulesEnabled:
   contact: true
   faq: true
 contactSettings:
-  whatsappNumber: '5491134567890'
+  whatsappNumber: '50683026568'
   whatsappMessage: Hola Presagio! Me gustaría reservar una experiencia de picnic.
-  email: hola@presagio.com.ar
+  email: ''
 ---
