@@ -1,7 +1,7 @@
 ---
 name: Sofía Ramírez
 slug: testimonio-sofia-ramirez
-photo: /content-uploads/testimonials/sofia-ramirez.jpg
+photo: /content-uploads/testimonials/sofia.png
 rating: 5
 order: 1
 instagramUrl: https://instagram.com/

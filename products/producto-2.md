@@ -1,10 +1,10 @@
 ---
 title: Set de Mantel y Servilletas de Lino
 slug: set-mantel-servilletas-lino
-mainImage: /content-uploads/products/mantel-lino.jpg
+mainImage: /content-uploads/products/mantel-lino.png
 gallery:
-  - /content-uploads/products/mantel-lino-a.jpg
-  - /content-uploads/products/mantel-lino-b.jpg
+  - /content-uploads/products/mantel-lino-a.png
+  - /content-uploads/products/mantel-lino-b.png
 price: 8900
 priceDisplay: show
 shortDescription: Mantel de lino lavado 180 × 130 cm + 4 servilletas de 45 × 45 cm. Tonos naturales, textura rústica, lavable a máquina.

@@ -1,7 +1,7 @@
 ---
 name: Carlos Méndez
 slug: carlos-mendez
-photo: /content-uploads/testimonials/carlos-mendez.jpg
+photo: /content-uploads/testimonials/carlos.png
 rating: 5
 order: 3
 ---

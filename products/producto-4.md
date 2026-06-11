@@ -1,7 +1,7 @@
 ---
 title: Cojines de Exterior Premium
 slug: cojines-exterior-premium
-mainImage: /content-uploads/products/cojines-exterior.jpg
+mainImage: /content-uploads/products/cojines-exterior.png
 gallery:
   - /content-uploads/products/cojines-exterior-a.jpg
 price: 4200

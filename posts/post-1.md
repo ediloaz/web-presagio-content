@@ -6,7 +6,7 @@ updatedAt: ''
 status: published
 author:
   name: Dionela Burgos
-  avatar: /content-uploads/team/dionela-burgos.jpg
+  avatar: /content-uploads/team/dionela-burgos.png
   bio: Fundadora de Presagio y obsesionada con los detalles que hacen la diferencia.
 coverImage: /content-uploads/posts/post-1.jpg
 excerpt: Un buen picnic no ocurre por accidente. Hay cinco elementos que separan una salida improvisada de una experiencia que se recuerda para siempre.

@@ -6,7 +6,7 @@ updatedAt: ''
 status: published
 author:
   name: Dionela Burgos
-  avatar: /content-uploads/team/dionela-burgos.jpg
+  avatar: /content-uploads/team/dionela-burgos.png
   bio: Fundadora de Presagio. Diseña canastas y menús con ingredientes de productores locales.
 coverImage: /content-uploads/posts/post-3.jpg
 excerpt: La comida del picnic tiene reglas propias. Aquí la guía completa para elegir qué llevar, cómo conservarlo y cómo armarlo para que todo se vea tan bien como sabe.

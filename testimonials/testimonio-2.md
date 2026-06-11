@@ -1,7 +1,7 @@
 ---
 name: Familia Gómez
 slug: testimonio-familia-gomez
-photo: /content-uploads/testimonials/familia-gomez.jpg
+photo: /content-uploads/testimonials/familia.png
 rating: 5
 order: 2
 instagramUrl: https://instagram.com/

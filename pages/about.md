@@ -27,7 +27,7 @@ values:
 team:
   - name: Dionela Burgos
     role: Fundadora & Directora Creativa
-    photo: /content-uploads/team/dionela-burgos.jpg
+    photo: /content-uploads/team/dionela-burgos.png
     bio: Creadora de Presagio desde 2022. Diseña cada experiencia picnic con flores, textiles naturales y una mirada artesanal desde Puriscal, San José.
 ---
 

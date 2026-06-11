@@ -6,7 +6,7 @@ updatedAt: ''
 status: published
 author:
   name: Dionela Burgos
-  avatar: /content-uploads/team/dionela-burgos.jpg
+  avatar: /content-uploads/team/dionela-burgos.png
   bio: Fundadora de Presagio. Conoce rincones verdes en Puriscal y el GAM para crear experiencias picnic memorables.
 coverImage: /content-uploads/posts/post-2.jpg
 excerpt: Después de montar decenas de setups en la zona, esta es nuestra guía de los mejores lugares para un picnic según el tipo de experiencia que buscás.
