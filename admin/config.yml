@@ -4,7 +4,7 @@
 
 backend:
   name: github
-  repo: ediloaz/boilerplate-content
+  repo: ediloaz/web-presagio-content
   branch: main
   base_url: https://sveltia-auth.workers.dev
   auth_endpoint: auth
