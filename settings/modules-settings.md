@@ -3,10 +3,10 @@ home: true
 about: true
 services: true
 products: true
-portfolio: true
+portfolio: false
 gallery: true
-promotions: true
-blog: true
+promotions: false
+blog: false
 testimonials: true
 contact: true
 faq: true

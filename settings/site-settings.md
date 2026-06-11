@@ -13,10 +13,10 @@ modulesEnabled:
   about: true
   services: true
   products: true
-  portfolio: true
+  portfolio: false
   gallery: true
-  promotions: true
-  blog: true
+  promotions: false
+  blog: false
   testimonials: true
   contact: true
   faq: true
@@ -24,14 +24,4 @@ contactSettings:
   whatsappNumber: '5491134567890'
   whatsappMessage: Hola Presagio! Me gustaría reservar una experiencia de picnic.
   email: hola@presagio.com.ar
-brandName: Empresa Demo
-tagline: Calidad y confianza
-description: Empresa de servicios genérica que ofrece soluciones de calidad y confianza.
-primaryColor: '#0EA5E9'
-secondaryColor: '#F59E0B'
-whatsappNumber: '15550000000'
-whatsappMessage: 'Hola, vi su sitio web y...'
-email: info@demo.com
-darkModeEnabled: true
 ---
-

@@ -62,8 +62,73 @@ collections:
         label: 'Inicio'
         file: pages/home.md
         fields:
+          - { name: heroEyebrow, label: 'Etiqueta hero', widget: string, required: false }
           - { name: heroTitle, label: 'Título hero', widget: string }
           - { name: heroSubtitle, label: 'Subtítulo hero', widget: text, required: false }
+          - { name: heroImage, label: 'Imagen hero', widget: image, required: false }
+          - { name: heroPrimaryCtaLabel, label: 'CTA primario — texto', widget: string, required: false }
+          - { name: heroPrimaryCtaHref, label: 'CTA primario — enlace', widget: string, required: false }
+          - { name: heroSecondaryCtaLabel, label: 'CTA secundario — texto', widget: string, required: false }
+          - { name: heroSecondaryCtaHref, label: 'CTA secundario — enlace', widget: string, required: false }
+          - name: benefitsSection
+            label: 'Sección beneficios'
+            widget: object
+            required: false
+            fields:
+              - { name: title, label: Título, widget: string, required: false }
+              - { name: subtitle, label: Subtítulo, widget: text, required: false }
+          - name: benefits
+            label: Beneficios
+            widget: list
+            required: false
+            fields:
+              - { name: icon, label: Icono, widget: string }
+              - { name: title, label: Título, widget: string }
+              - { name: description, label: Descripción, widget: text }
+          - name: servicesSection
+            label: 'Sección experiencias'
+            widget: object
+            required: false
+            fields:
+              - { name: eyebrow, label: Etiqueta, widget: string, required: false }
+              - { name: title, label: Título, widget: string, required: false }
+              - { name: subtitle, label: Subtítulo, widget: text, required: false }
+              - { name: viewAllLabel, label: 'Ver todos — texto', widget: string, required: false }
+          - name: gallerySection
+            label: 'Sección galería'
+            widget: object
+            required: false
+            fields:
+              - { name: title, label: Título, widget: string, required: false }
+              - { name: subtitle, label: Subtítulo, widget: text, required: false }
+              - { name: viewAllLabel, label: 'Ver todos — texto', widget: string, required: false }
+          - name: testimonialsSection
+            label: 'Sección testimonios'
+            widget: object
+            required: false
+            fields:
+              - { name: title, label: Título, widget: string, required: false }
+              - { name: subtitle, label: Subtítulo, widget: text, required: false }
+          - name: aboutSummary
+            label: 'Resumen nosotros'
+            widget: object
+            required: false
+            fields:
+              - { name: eyebrow, label: Etiqueta, widget: string, required: false }
+              - { name: title, label: Título, widget: string, required: false }
+              - { name: body, label: Cuerpo, widget: text, required: false }
+              - { name: image, label: Imagen, widget: image, required: false }
+              - { name: ctaLabel, label: 'CTA — texto', widget: string, required: false }
+              - { name: ctaHref, label: 'CTA — enlace', widget: string, required: false }
+          - name: ctaBanner
+            label: 'Banner CTA final'
+            widget: object
+            required: false
+            fields:
+              - { name: title, label: Título, widget: string, required: false }
+              - { name: description, label: Descripción, widget: text, required: false }
+              - { name: ctaLabel, label: 'CTA — texto', widget: string, required: false }
+              - { name: ctaHref, label: 'CTA — enlace', widget: string, required: false }
           - {
               name: testimonialsDisplayMode,
               label: 'Testimonios — modo de visualización',
